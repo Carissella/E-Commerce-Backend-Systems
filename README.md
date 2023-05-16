@@ -1,7 +1,7 @@
 # Object Relational Mapping (ORM) E-Commerce Backend
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-  [Walkthrough Video]()
+  [Walkthrough Video](https://drive.google.com/file/d/1S6eSWhfDLwk6vfL4oSryhLN05qDvQQdF/view)
 
  ## Table of Contents
 
@@ -14,7 +14,7 @@
 
   ## Description 
 
-  This is a CLI application that allows users to manage products, categories, and tags through a RESTful API. The API endpoints support CRUD (Create, Read, Update, Delete) operations for each resource.
+  This is a CLI application that allows the users to manage products, categories, and tags through a RESTful API that is supported by Mysql and Sequelize. The API endpoints support CRUD abilities (Create, Read, Update, Delete) operations for each request.
 
   ## Dependencies  
 
